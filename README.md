@@ -11,7 +11,7 @@ I specialize in all things data management, including (but not limited to):
 * **Data Governance & Security:**  I take data privacy and security seriously. I can help you implement data governance frameworks and ensure that your data is protected from unauthorized access.  Because responsible data handling is non-negotiable.
 * **Automation & Scripting:**  I'm a big fan of automating repetitive tasks.  I can write scripts in Python (and other languages) to streamline your data workflows and free up your time for more strategic initiatives.  EFFICIENCY IS MY MIDDLE NAME!
 
-## My Toolbox
+## MY TOOLBOX
 
 I'm proficient in a variety of tools and technologies, including:
 
@@ -21,6 +21,6 @@ I'm proficient in a variety of tools and technologies, including:
 * **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)
 * **Other:** Git, WSL, Jupyter Notebooks, Conda, Kaggle, 
 
-## Connect with Me
+## CONNECT WITH ME
 
 * **LinkedIn:** https://linkedin.com/in/adonis-jimenez
