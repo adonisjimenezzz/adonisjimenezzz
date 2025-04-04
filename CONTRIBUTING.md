@@ -1,7 +1,3 @@
-First off, thank you for taking the time to contribute! 🎉 We appreciate your effort in improving our project.
-
-## Code of Conduct
-
 ## Contribute by:
 
 ### Reporting Bugs
